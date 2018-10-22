@@ -15,4 +15,4 @@ The balance test asks the participant to balance on one foot with their arms out
 The memory test shows the participant a grid of cubes where some are highlighted - then disables this highlighting, performs some rotations to the grid, and asks the participant to select the cubes that were previously highlighted.  Scoring is based on the number of cubes that were selected correctly and those that were not.
 
 ### Focus
-The focus test asks the participant to simultaneously monitor visual and auditory stimului - indicating when a specific condition occurs.  The test periodically generates this, and other, conditions.  The scoring is based on the number of stimuli correctly identified, and the number of false positives or true positives ignored.
+The focus test asks the participant to simultaneously monitor visual and auditory stimuli - indicating when a specific condition occurs.  The test periodically generates this, and other, conditions.  The scoring is based on the number of stimuli correctly identified, and the number of false positives or true positives ignored.
